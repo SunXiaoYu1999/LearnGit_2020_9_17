@@ -7,5 +7,6 @@ int main()
 	string name2 = "丁小敏";
 	cout << name1 << endl;
 	cout << name2 << endl;
+	cout << "这是新的测试" << endl;
 	return 0;
 }
