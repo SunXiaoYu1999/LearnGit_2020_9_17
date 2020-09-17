@@ -1,8 +1,9 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main()
 {
-	
-	cout << "Hello World! " << endl;
+	string name = "孙小鱼";
+	cout << name << endl;
 	return 0;
 }
